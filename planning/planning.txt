@@ -1,0 +1,13 @@
+Andrew Rivera
+
+While planning my website, I wanted to achieve something that was fairly simple to use and navigate through
+while also maintaining some sleekness. I wanted the site to be simple but enjoyable.
+I planned on having my main body of text centered on the site with a simple but appealing background.
+The top of the page containing the links to navigate through the site, with some of them using
+common thumbnails such as email and home thumbnails.
+I want to place a video on my home page to capture the users interest and give them a feel for the site.
+The site will also contain images such as logos for my favorite sports team. 
+Putting the logos there can give the user a better feel for the site, possibly give them something 
+to relate to, while making the site a bit more visually appealing.
+As a first website for a beginner, simplicity and ease of use is more of what I hope to target
+while still keeping the user interested in navigating the site.   
